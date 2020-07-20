@@ -60,6 +60,7 @@ return res.send({ project });
     }, {new: true} );
   
     project.tasks = [];
+
      await Task.remove({ project: project._id });
 
      await Promise.all(tasks.map(async task => {
@@ -78,6 +79,8 @@ return res.send({ project });
            return res.status(400).send({ error: 'Error updating new project' });
        }
  } );
+
+ 
 
  router.delete('/:projectId', async (req, res) => { 
     try {
