@@ -8,7 +8,7 @@
 
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
 
-![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/api-node-jwt?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/api-node-jwt?style=social)](https://github.com/Daniel-Vinicius/api-node-jwt/stargazers)
 
 
 ### Features 
