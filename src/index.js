@@ -10,7 +10,7 @@ app.use(bodyParser.urlencoded({extended: false}));
 
 require('./app/controllers/index')(app);
 
-
+console.log('api ok')
 
 app.listen(3000)
 

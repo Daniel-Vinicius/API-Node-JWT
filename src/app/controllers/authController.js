@@ -79,7 +79,7 @@ await User.findByIdAndUpdate(user.id, {
 
 mailer.sendMail({
     to:email,
-    from: 'daniel.vini.siq@gmail.com',
+    from: 'seuEmail@gmail.com', // seu email
     template: 'auth/forgot_password',
     context: {token} ,
 }, (err) => {
