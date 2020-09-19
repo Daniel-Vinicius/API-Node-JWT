@@ -64,7 +64,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  
 
   - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
-  - [Node.js](https://nodejs.org/pt-br/),
+  - [Node.js](https://nodejs.org/pt-br/)
   - [Mongodb](https://mongodb.com)
 
 
