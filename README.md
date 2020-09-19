@@ -2,17 +2,14 @@
  <h1> API Node com JWT </h1>
  <p id="sobre" align="center">
 🔑 Esse projeto é uma API desenvolvida em Node.js. 
+ Feita com base nesta <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp">série</a>
 
 ![](https://img.shields.io/badge/license-MIT-green)
 
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
 
-<!-- Criar no Site https://shields.io/category/social
+![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/api-node-jwt?style=social)
 
- [![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/Calculadora?style=social)](https://github.com/Daniel-Vinicius/Calculadora/stargazers) -->
-
-
-<h2 align="center">  <img alt="Imagem do Projeto" id="imagem" title="#Projeto" src="https://github.com/Daniel-Vinicius/repositorio/.github/Imagem.JPG" />  </h2>
 
 ### Features 
 - [x] Verificação JSON WEB TOKEN
@@ -21,7 +18,7 @@
 - [x] Conexão com o Banco de Dados Mongobd
 
 <h4  align="left">
-Projeto finalizado ✔
+Projeto finalizado com tudo funcionando ✔
 </h4>
 
 Tabela de conteúdos 
@@ -40,8 +37,9 @@ Tabela de conteúdos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
  [Git](https://git-scm.com/),
- [Node.js](https://nodejs.org/pt-br/)
- [React](https://reactjs.org/)
+ [Node.js](https://nodejs.org/pt-br/),
+ [Mongodb](https://mongodb.com)
+
  
  Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
  
@@ -49,31 +47,25 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
    
 ````bash 
  # Clone este repositório
- git clone https://github.com/Daniel-Vinicius/repositorio
+ git clone https://github.com/Daniel-Vinicius/api-node-jwt
  
  # Acesse a pasta do projeto no terminal
- cd pasta
+ cd api-node-jwt
  
  # Instale as dependências
  $ yarn install ou
  $ npm i 
  
- # Execute a aplicação em modo de desenvolvimento
- $ npm start 
- $ yarn start
- 
- # O servidor inciará na porta:porta
- # Acesse http://localhost:porta
  ````
-<p> Quando você tiver realizado todos os passos do projeto verá a  <a href="#imagem" >imagem do projeto</a> </p>
+   **Teste as rotas em sua máquina como na série**
 
 ### 🛠 Tecnologias<a id="tecnologias"></a>
  As seguintes ferramentas foram usadas na construção do projeto:
  
-  - [Css](https://developer.mozilla.org/pt-BR/docs/Web/CSS) 
-  - [Html](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-  - [React](https://reactjs.org/)
+
   - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+  - [Node.js](https://nodejs.org/pt-br/),
+  - [Mongodb](https://mongodb.com)
 
 
 ### 👨‍💻Autor <a id="autor"> </a>
