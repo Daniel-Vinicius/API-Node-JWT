@@ -1,13 +1,11 @@
 
  <h1> API Node com JWT </h1>
- <p id="sobre" align="center">
+ <p id="sobre">
 🔑 Esse projeto é uma API desenvolvida em Node.js. 
  Feita com base nesta <a href="https://www.youtube.com/playlist?list=PL85ITvJ7FLoiXVwHXeOsOuVppGbBzo2dp">série</a>
 
 ![](https://img.shields.io/badge/license-MIT-green)
-
 ![](https://img.shields.io/badge/languege-Portuguese-yellow)
-
 [![GitHub stars](https://img.shields.io/github/stars/Daniel-Vinicius/api-node-jwt?style=social)](https://github.com/Daniel-Vinicius/api-node-jwt/stargazers)
 
 
